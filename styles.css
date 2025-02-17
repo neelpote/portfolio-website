@@ -46,7 +46,7 @@ nav {
 }
 
 nav .logo a {
-  font-size: 1.5rem;
+  font-size: 30px;
   font-weight: 600;
   color: var(--text-dark);
   transition: 0.3s;
@@ -63,7 +63,7 @@ nav input {
   display: none;
 }
 nav .checkbox i {
-  font-size: 2rem;
+  font-size: 20px;
   color: var(--text-dark);
   cursor: pointer;
 }
@@ -77,12 +77,11 @@ ul {
 }
 
 ul li a {
-  padding: 0.5rem 1rem;
+  padding: 5px 8px;
   border: 2px solid transparent;
   text-decoration: none;
   font-weight: 600;
-  color: var(--text-dark);
-  transition: 0.3s;
+  color: var(--text-dark);
 }
 
 ul li a:hover {
